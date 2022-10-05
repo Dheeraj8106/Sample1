@@ -1,0 +1,16 @@
+{
+  "name": "hello",
+  "main": "./lib/hello",
+  "version": "0.10.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "hello:toggle"
+  },
+  "repository": "https://github.com/Dheeraj0650/Hello",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
