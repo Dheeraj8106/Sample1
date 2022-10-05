@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "hello:toggle"
   },
-  "repository": "https://github.com/Dheeraj0650/Hello",
+  "repository": "https://github.com/Dheeraj8106/Sample1",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
